@@ -1,0 +1,7 @@
+Docker Machine is a tool that lets you install Docker Engine
+on virtual hosts, and manage the hosts with docker-machine commands.
+You can use Machine to create Docker hosts on your local box,
+your company network, in your data center, or on cloud providers
+like AWS or Digital Ocean.
+
+WWW: https://docs.docker.com/machine/
