@@ -2,7 +2,7 @@
 # $FreeBSD$
 
 PORTNAME=	docker-machine
-PORTVERSION=	20161216
+PORTVERSION=	20170523
 CATEGORIES=	sysutils
 
 MAINTAINER=	aj@laatu.uk
@@ -18,7 +18,7 @@ USES=	gmake
 USE_GITHUB=	yes
 GH_ACCOUNT=	docker
 GH_PROJECT=	machine
-GH_TAGNAME=	v0.9.0-rc2
+GH_TAGNAME=	v0.11.0
 GH_SUBDIR=	src/github.com/${GH_ACCOUNT}/${GH_PROJECT}
 
 STRIP=
