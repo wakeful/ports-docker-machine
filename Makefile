@@ -1,11 +1,11 @@
-# Created by: Adrian Jaskuła <aj@laatu.uk>
+# Created by: Adrian Jaskuła <aj@48k.io>
 # $FreeBSD$
 
 PORTNAME=	docker-machine
 PORTVERSION=	20170523
 CATEGORIES=	sysutils
 
-MAINTAINER=	aj@laatu.uk
+MAINTAINER=	aj@48k.io
 COMMENT=	Machine management for a container-centric world
 
 LICENSE=	APACHE20
